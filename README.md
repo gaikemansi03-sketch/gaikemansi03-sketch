@@ -11,19 +11,16 @@
   <a href="https://github.com/gaikemansi03-sketch">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://gaikemansi03-sketch.github.io/Mansi_Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
 
 ## ✨ About Me
 
-I'm a full-stack developer passionate about building **practical, scalable solutions** that solve real-world problems. I enjoy the entire development journey—from crafting intuitive frontends to designing robust backends. I thrive on learning by doing, constantly exploring new technologies, and improving my craft through hands-on projects.
+I'm a full-stack developer passionate about building **practical, scalable solutions** that solve real-world problems. I enjoy the entire development journey—from crafting intuitive frontends to designing robust backends. I thrive on learning by doing, collaborating with talented engineers, and shipping production-grade systems.
 
 - 🚀 Building full-stack applications with **React & Python**
-- 📊 Designing data-driven systems for **inventory analytics** and **supply chain optimization**
+- 📊 Designing data-driven systems for **inventory analytics**, **supply chain optimization**, and **quick-commerce logistics**
 - 🎨 Creating clean, efficient, and user-friendly interfaces
 - 🔧 Passionate about **problem-solving** and **software design fundamentals**
 - 📚 Continuously learning modern development practices and best tools
@@ -35,6 +32,7 @@ I'm a full-stack developer passionate about building **practical, scalable solut
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,9 +40,10 @@ I'm a full-stack developer passionate about building **practical, scalable solut
 ### ⚙️ Backend & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🗄️ Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,88 +54,84 @@ I'm a full-stack developer passionate about building **practical, scalable solut
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📦 Libraries & Frameworks
-![xlsx (SheetJS)](https://img.shields.io/badge/SheetJS-008000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptMy41LTljLjgzIDAgMS41LS42NyAxLjUtMS41cy0uNjctMS41LTEuNS0xLjUtMS41LjY3LTEuNSAxLjUuNjcgMS41IDEuNSAxLjV6Ii8+PC9zdmc+)
-![react-dropzone](https://img.shields.io/badge/react--dropzone-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![react-hot-toast](https://img.shields.io/badge/react--hot--toast-FF6B6B?style=for-the-badge)
+![xlsx (SheetJS)](https://img.shields.io/badge/SheetJS-008000?style=for-the-badge)
+![PyDeck](https://img.shields.io/badge/PyDeck-3D%20Geospatial-blueviolet?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-003366?style=for-the-badge)
+![Folium](https://img.shields.io/badge/Folium-Maps-77B900?style=for-the-badge)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. 📦 **Inventory Flow Engine** — Full-Stack Analytics Platform
+### 1. 🌐 **My Dark Store App** — AI-Powered Quick-Commerce Ecosystem
+**Repository:** [NeelBelsare/my-dark-store-app](https://github.com/NeelBelsare/my-dark-store-app) *(Collaborator & Contributor)*  
+**Status:** Production Ready | **Created:** September 2026
+
+A **comprehensive quick-commerce logistics platform** designed for Chhatrapati Sambhajinagar (Aurangabad). A real-world implementation of a **Blinkit-like 10-minute delivery system** with AI-powered dispatch, 3D spatial analytics, and autonomous warehouse management.
+
+**Key Highlights:**
+- 🚀 **5-Tier Full-Stack Architecture** (Mobile clients, FastAPI dispatch, Supabase cloud, Streamlit command center, Executive reports)
+- 📱 **Dual Mobile Clients** (React Native Expo + Flutter) with real-time Supabase synchronization
+- 🖥️ **AI Operations Command Center** with 3D PyDeck telemetry, dynamic KPI filters, and live dispatch visualization
+- 📊 **Intelligent Dispatch Engine** using Haversine routing, GeoJSON catchment evaluation, and 12-hub store network optimization
+- 🗺️ **Geospatial Analytics** with real-world delivery polygons, micro-market demand forecasting, and climate impact modeling
+- ⚡ **Sub-12 Minute Delivery Promise** with serpentine warehouse pick-path optimization and OSRM street navigation
+- 🔒 **Secure Cloud Backend** with PostgreSQL Row Level Security, Realtime WebSocket streaming, and zero-downtime fallback
+
+**Live Deployments:**
+- 🎯 **Streamlit Command Center**: [my-dark-store-app.streamlit.app](https://my-dark-store-app.streamlit.app/)
+- 📱 **Consumer Web App**: [blinkit-aurangabad.netlify.app](https://blinkit-aurangabad.netlify.app)
+
+**My Contributions:**
+- **Product Definition & Functional Requirements**: Defined business objectives, core workflows, and KPI metrics for supply chain logistics
+- **Technical Documentation & Project Specification**: Comprehensive REST API specs, data ingestion formats, schema designs, and non-technical handbooks
+- **Quality Assurance & End-to-End Testing**: Validated order workflows, dispatch accuracy, inventory consistency, and edge cases
+- **Systems & Architecture Review**: Ensured scalability, performance optimization, and reliability across all tiers
+
+**Tech Stack:**
+- **Frontend:** React Native (Expo 51), Flutter (Dart 3.0), TypeScript
+- **Backend:** FastAPI (Python 3.9+), Streamlit, PyDeck, Plotly, Folium
+- **Database:** Supabase PostgreSQL with PostGIS, Row Level Security (RLS), Realtime subscriptions
+- **Infrastructure:** Docker, Streamlit Cloud, Netlify
+- **Advanced:** Haversine routing, GeoJSON spatial operations, PDF report generation, ML demand forecasting
+
+**Mathematical Models:**
+- Haversine distance calculation for nearest-hub routing
+- Predictive SLA buffering with weather/traffic friction coefficients
+- Serpentine warehouse pick-path optimization (42% reduction in picker travel)
+- Demand forecasting using population density regression
+
+---
+
+### 2. 📦 **Inventory Flow Engine** — Full-Stack Analytics Platform
 **Repository:** [inventory-flow-engine](https://github.com/gaikemansi03-sketch/inventory-flow-engine)  
 **Status:** Active & Production-Ready | **Updated:** October 2026
 
 A comprehensive **inventory analytics and stock health management platform** designed for supply chain and logistics teams. Enables real-time stockout risk detection and actionable replenishment recommendations.
 
 **Key Highlights:**
-- 🎯 **Real-Time KPI Dashboard** with 4 executive summary cards
-- 📊 **Intelligent Metric Engine** calculating runout hours, available stock, and stockout risk
-- 📁 **Multi-Format File Ingestion** (`.xlsx`, `.xls`, `.csv`) with client-side parsing
-- 🔴 **Color-Coded Risk Badges** (🟢 Healthy, 🟡 Caution, 🟠 High Priority, 🚨 Critical)
-- 🔒 **Secure PostgreSQL Backend** with Row Level Security (RLS)
+- 🎯 **Real-Time KPI Dashboard** with 4 executive summary cards (Total Products, Low Stock, In-Transit, At Risk)
+- 📊 **Intelligent Metric Engine** calculating available stock, runout hours, and stockout risk
+- 📁 **Multi-Format File Ingestion** (`.xlsx`, `.xls`, `.csv`) with client-side parsing and instant data preview
+- 🔴 **Color-Coded Risk Badges** (🟢 Healthy, 🟡 Caution, 🟠 High Priority, 🚨 Critical, 🚨 Immediate)
+- 🔒 **Secure PostgreSQL Backend** with Row Level Security (RLS) and Supabase cloud storage
+- ⚡ **One-Click Maintenance Tools** (catalog refresh, full purge with confirmation)
+- 📈 **Interactive Charts & Tables** with dynamic sorting and filtering
 
 **Tech Stack:**
 - **Frontend:** React 18, xlsx (SheetJS), react-dropzone, react-hot-toast
-- **Backend:** Flask 3.x, Python 3.9+
-- **Database:** Supabase PostgreSQL
-- **Hosting:** GitHub Pages
+- **Backend:** Flask 3.x, Python 3.9+, pandas
+- **Database:** Supabase PostgreSQL with Row Level Security (RLS)
 
 **Mathematical Models:**
 - Available Stock = Current Inventory - Committed Stock
-- Runout Hours = Available Stock / Hourly Demand
-- Stockout Risk Detection via Lead-Time vs Runout-Time comparison
-
----
-
-### 2. 🛍️ **DaanKart** — E-Commerce Platform
-**Repository:** [DaanKart](https://github.com/gaikemansi03-sketch/DaanKart)  
-**Status:** Active | **Created:** August 2025
-
-A lightweight e-commerce solution focused on clean UI/UX and efficient product catalog management.
-
-**Tech Stack:**
-- **Frontend:** JavaScript, HTML5, CSS3
-- **Features:** Product browsing, shopping cart, responsive design
-- **Hosting:** GitHub Pages
-
----
-
-### 3. 💼 **Mansi_Portfolio** — Personal Portfolio Website
-**Repository:** [Mansi_Portfolio](https://github.com/gaikemansi03-sketch/Mansi_Portfolio)  
-**Status:** Active | **Created:** October 2026
-
-A modern, interactive portfolio showcasing projects, skills, and professional journey built with cutting-edge frontend technologies.
-
-**Tech Stack:**
-- **Framework:** Vite + React (TypeScript)
-- **Styling:** CSS3 with modern design patterns
-- **Features:** Smooth animations, project showcase, interactive sections
-- **Build:** Optimized production builds with Vite
-
----
-
-### 4. 📄 **ResumeIQ** — Resume Builder & Analyzer
-**Repository:** [ResumeIQ](https://github.com/gaikemansi03-sketch/ResumeIQ)  
-**Status:** Active | **Created:** July 2026
-
-A web-based resume building tool helping users create professional, ATS-optimized resumes.
-
-**Tech Stack:**
-- **Frontend:** HTML5, CSS3
-- **Features:** Template-based resume generation, export functionality
-
----
-
-### 5. 🏢 **Mansi** — Development Workspace
-**Repository:** [mansi](https://github.com/gaikemansi03-sketch/mansi)  
-**Status:** Active | **Created:** October 2026
-
-Active development and experimentation workspace for exploring new technologies and building micro-projects.
+- Runout Hours = Available Stock / Hourly Demand (10 units/day default)
+- Stockout Risk = Runout Time ≤ Supplier Lead Time
+- Tiered Action Recommendations based on stock levels and safety thresholds
 
 ---
 
@@ -156,35 +151,53 @@ Active development and experimentation workspace for exploring new technologies 
 
 ---
 
-## 🎯 Currently Learning & Exploring
+## 🎯 Core Competencies
 
-- 🔹 Advanced **data structures and algorithms** for optimization
-- 🔹 **TypeScript** for building type-safe applications
-- 🔹 **Cloud Architecture** patterns and deployment strategies
-- 🔹 **System Design** principles for scalable applications
-- 🔹 **Backend Performance** optimization and caching strategies
-- 🔹 **Testing Frameworks** (Unit, Integration, E2E testing)
+### System Architecture & Design
+- Full-stack system design with multiple tiers and services
+- Microservices architecture patterns (FastAPI, Flask, Streamlit)
+- Database schema design with optimization and security (PostgreSQL, Supabase)
+- Real-time data synchronization and cloud integration
+
+### Product Development
+- End-to-end product lifecycle from requirements to deployment
+- Data-driven decision making with analytics and visualization
+- User-centric design for both operational and consumer applications
+- Technical documentation and stakeholder communication
+
+### Geospatial & Supply Chain
+- Haversine distance calculations and spatial routing
+- GeoJSON and PostGIS for geographic data modeling
+- Inventory optimization and demand forecasting
+- Logistics network design and catchment analysis
+
+### Full-Stack Development
+- React + Python stack expertise
+- Real-time data pipelines and WebSocket synchronization
+- File ingestion and data processing at scale
+- Mobile-first responsive design (React Native, Flutter)
 
 ---
 
-## 🌱 What I'm Working On
+## 🌱 Currently Learning & Exploring
 
-- ✅ Strengthening core programming fundamentals across multiple languages
-- ✅ Building production-ready full-stack applications with real-world impact
-- ✅ Improving **system design** and **software architecture** skills
-- ✅ Exploring modern deployment and DevOps practices
-- ✅ Contributing to open-source projects and community
-- ✅ Documenting projects with clear, comprehensive README files
+- 🔹 Advanced **distributed systems** and microservices orchestration
+- 🔹 **Machine learning** for demand forecasting and anomaly detection
+- 🔹 **Cloud architecture** patterns (Kubernetes, scaling strategies)
+- 🔹 **Real-time analytics** platforms and event streaming
+- 🔹 **System performance** optimization and benchmarking
+- 🔹 **API design** best practices and GraphQL
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 Highlights & Achievements
 
-- 📌 **Full-Stack Developer** with expertise in React + Python + PostgreSQL
-- 🎨 **UI/UX Enthusiast** focused on user-centric design and clean interfaces
-- 📊 **Data-Driven Problem Solver** leveraging analytics for business impact
-- 🚀 **Project Owner & Architect** managing end-to-end system design
-- 📚 **Documentation Expert** creating detailed technical specifications and guides
+- 📌 **Full-Stack Developer** with expertise in React + Python + PostgreSQL + Geospatial
+- 🎨 **Data Visualization Expert** creating compelling dashboards and analytics UIs
+- 📊 **Domain Knowledge** in logistics, supply chain, inventory management, and quick-commerce
+- 🚀 **Production Deployer** across Streamlit Cloud, Netlify, GitHub Pages
+- 📚 **Documentation Master** creating detailed technical specs and non-technical guides
+- 🤝 **Collaborative Engineer** working seamlessly with full-stack teams
 
 ---
 
@@ -193,24 +206,24 @@ Active development and experimentation workspace for exploring new technologies 
 I'm always excited about:
 - 🔗 Learning opportunities and knowledge exchange
 - 💡 Meaningful technical conversations
-- 🚀 Collaborating on interesting projects
+- 🚀 Collaborating on interesting full-stack projects
 - 📞 Providing feedback and code reviews
 
-**Feel free to reach out:**
+**Reach out:**
 
 - **LinkedIn:** [Mansi Gaike](https://linkedin.com/in/mansi-gaike-821260316)
 - **GitHub:** [@gaikemansi03-sketch](https://github.com/gaikemansi03-sketch)
-- **Portfolio:** [mansi-portfolio.dev](https://gaikemansi03-sketch.github.io/Mansi_Portfolio/)
+- **My Dark Store Collaborations:** [NeelBelsare/my-dark-store-app](https://github.com/NeelBelsare/my-dark-store-app)
 
 ---
 
-## 💬 Fun Facts About Me
+## 💬 Philosophy
 
-- 🎯 I believe in **clean code** and **pragmatic solutions**
-- 🧠 I enjoy breaking down complex problems into manageable parts
-- 🌐 I'm passionate about building tools that improve **user experience**
+- 🎯 I believe in **clean code**, **pragmatic solutions**, and **measurable impact**
+- 🧠 I enjoy breaking down complex problems into elegant, maintainable systems
+- 🌐 I'm passionate about building tools that improve **user experience** and **operational efficiency**
 - 📖 I love **documentation** almost as much as I love coding
-- ⚡ Coffee-driven developer ☕
+- ⚡ Coffee-driven developer ☕ | Data-driven decision maker 📊
 
 ---
 
