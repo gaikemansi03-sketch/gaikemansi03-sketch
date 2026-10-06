@@ -1,7 +1,7 @@
 # Hi, I'm Mansi Gaike 👩‍💻
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Problem+Solver;Building+Scalable+Solutions;Turning+Ideas+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Problem+Solver;Building+Scalable+Solutions;Turning+Ideas+into+Impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,17 +13,23 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack+Development-8A2BE2?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Area-Product+%26+Logistics-Tech-00C853?style=for-the-badge" alt="Area" />
+  <img src="https://img.shields.io/badge/Stack-React%2C+Python%2C+Supabase-FF6B6B?style=for-the-badge" alt="Stack" />
+</p>
+
 ---
 
 ## ✨ About Me
 
-I'm a full-stack developer passionate about building practical, scalable solutions that solve real-world problems. I enjoy the end-to-end development journey—from crafting intuitive interfaces to designing reliable backend systems. I love learning by doing, exploring modern tools, and applying technology to real use cases.
+I’m a developer who enjoys turning ideas into practical, scalable software. I like building products that solve real problems, improve workflows, and create real user value. My work blends frontend craftsmanship, backend thinking, and data-driven decision making.
 
-- 🚀 Building full-stack applications with React, Python, and cloud platforms
-- 📊 Working with analytics, inventory logic, and supply chain problem solving
-- 🎨 Designing clean, efficient, and user-friendly interfaces
-- 🔧 Improving problem-solving and software design fundamentals
-- 📚 Constantly learning modern workflows, tools, and architecture patterns
+- 🚀 Building full-stack products with React, Python, and cloud-backed systems
+- 📊 Working on analytics, logistics, and decision-support platforms
+- 🎨 Creating clean, intuitive, and user-friendly interfaces
+- 🔧 Strengthening core problem-solving and software design skills
+- 📚 Constantly improving by building and learning through real projects
 
 ---
 
@@ -54,7 +60,7 @@ I'm a full-stack developer passionate about building practical, scalable solutio
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![PostGIS](https://img.shields.io/badge/PostGIS-Spatial%20DB-336791?style=for-the-badge)
 
-### Analytics & Visualization
+### Data & Visualization
 ![PyDeck](https://img.shields.io/badge/PyDeck-3D%20Maps-blueviolet?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Dash-3F4F75?style=for-the-badge)
 ![Folium](https://img.shields.io/badge/Folium-Maps-77B900?style=for-the-badge)
@@ -70,36 +76,28 @@ I'm a full-stack developer passionate about building practical, scalable solutio
 
 ## 🚀 Featured Projects
 
-### 1. 🛒 Dark Store Quick-Commerce Ecosystem
-**Repository:** [NeelBelsare/my-dark-store-app](https://github.com/NeelBelsare/my-dark-store-app)  
-**Role:** Collaborator & Contributor
+<div align="center">
 
-A production-grade quick-commerce platform for Aurangabad with an end-to-end logistics stack covering dark store management, mobile ordering, rider dispatch, and real-time analytics.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/NeelBelsare/my-dark-store-app">🛒 Dark Store Quick-Commerce Ecosystem</a></h3>
+      <p><strong>Role:</strong> Collaborator & Contributor</p>
+      <p>A full-stack quick-commerce platform covering order dispatch, rider workflows, dark store analytics, and real-time operational monitoring.</p>
+      <p><strong>Stack:</strong> React Native, Flutter, FastAPI, Streamlit, Supabase, PostgreSQL, PyDeck, Plotly</p>
+      <p><strong>Highlights:</strong> real-time routing, live dashboard, rider flow, inventory tracking, geospatial analytics</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gaikemansi03-sketch/inventory-flow-engine">📦 Inventory Flow Engine</a></h3>
+      <p><strong>Role:</strong> Full-stack developer</p>
+      <p>An inventory intelligence platform focused on stock health, risk detection, and replenishment planning for real-world operations.</p>
+      <p><strong>Stack:</strong> React, Flask, Python, Supabase, PostgreSQL, JavaScript, HTML, CSS</p>
+      <p><strong>Highlights:</strong> KPI dashboard, stockout analytics, ingestion workflow, risk detection engine</p>
+    </td>
+  </tr>
+</table>
 
-- Real-time order dispatch and route tracking
-- Live dashboard for dark store and rider operations
-- React Native + Flutter mobile clients
-- Supabase-powered real-time sync
-- Streamlit-based command center and operational analytics
-- Spatial delivery mapping and inventory management
-
-**Tech Stack:**
-- React Native (Expo), Flutter, Streamlit, FastAPI, Supabase, PostgreSQL, PyDeck, Plotly, Folium
-
-### 2. 📦 Inventory Flow Engine
-**Repository:** [inventory-flow-engine](https://github.com/gaikemansi03-sketch/inventory-flow-engine)  
-**Role:** Full-stack developer
-
-A full-stack inventory analytics platform focused on stock health, risk detection, and workflow visibility for supply chain operations.
-
-- Inventory KPI dashboard and risk scoring
-- Excel/CSV upload and ingestion workflow
-- Stockout detection and replenishment analysis
-- React frontend + Flask backend
-- Supabase-integrated processing and reporting
-
-**Tech Stack:**
-- React 18, Python, Flask, Supabase, PostgreSQL, JavaScript, HTML, CSS
+</div>
 
 ---
 
@@ -119,12 +117,12 @@ A full-stack inventory analytics platform focused on stock health, risk detectio
 
 ---
 
-## 🌱 Currently Working On
+## 🌱 What I'm Working On
 
-- Improving full-stack development skills
-- Building more real-world, impact-driven projects
-- Strengthening data structures, system design, and backend fundamentals
-- Exploring modern app architecture and cloud tools
+- Building scalable, real-world full-stack applications
+- Improving problem solving, backend architecture, and systems thinking
+- Strengthening data structures, analytics, and product design fundamentals
+- Exploring modern cloud workflows, deployment patterns, and clean UI/UX
 
 ---
 
@@ -138,4 +136,10 @@ I’m open to learning opportunities, collaborations, and meaningful technical c
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=gaikemansi03-sketch&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gaikemansi03-sketch&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <strong>⭐ Building practical products, one iteration at a time.</strong>
+</p>
