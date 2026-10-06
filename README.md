@@ -118,7 +118,3 @@ I’m open to learning opportunities, collaborations, and meaningful technical c
 - LinkedIn: [Mansi Gaike](https://linkedin.com/in/mansi-gaike-821260316)
 - GitHub: [@gaikemansi03-sketch](https://github.com/gaikemansi03-sketch)
 - Email: [mansigaike2006@gmail.com](mailto:mansigaike2006@gmail.com)
-
----
-
-[![](https://komarev.com/ghpvc/?username=gaikemansi03-sketch&icon=0&color=0)](https://visitcount.itsvg.in)
