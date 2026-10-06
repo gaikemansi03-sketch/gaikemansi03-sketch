@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-FullStack+Development-8A2BE2?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Area-Product+%26+Logistics-Tech-00C853?style=for-the-badge" alt="Area" />
   <img src="https://img.shields.io/badge/Stack-React%2C+Python%2C+Supabase-FF6B6B?style=for-the-badge" alt="Stack" />
 </p>
 
