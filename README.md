@@ -17,43 +17,72 @@
 
 ## ✨ About Me
 
-Full-stack developer passionate about building practical, scalable solutions. I specialize in frontend UX/UI, geospatial systems, and full-stack development with a focus on real-world impact.
+I'm a full-stack developer passionate about building practical, scalable solutions that solve real-world problems. I enjoy the complete development lifecycle—from crafting clean user experiences to implementing robust backend systems and data-driven workflows.
 
-- 🚀 Full-stack development (React, Python, PostgreSQL)
-- 🎨 Frontend design and UX/UI optimization
-- 🗺️ Geospatial mapping and spatial data modeling
-- 📊 Inventory analytics and supply chain systems
-- 📚 Continuously learning and shipping products
+- 🚀 Building full-stack apps with React, Python, and cloud tools
+- 📊 Working with analytics, inventory logic, and supply chain problem solving
+- 🎨 Designing user-friendly, efficient interfaces
+- 🔧 Improving problem-solving and software design fundamentals
+- 📚 Constantly learning modern workflows and tools
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend:** React, TypeScript, React Native, HTML5, CSS3  
-**Backend:** Python, Flask, FastAPI, Streamlit  
-**Database:** PostgreSQL, Supabase  
-**Geospatial:** GeoJSON, PostGIS, Folium, PyDeck  
-**Tools:** Git, Docker, VS Code
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. 🌐 My Dark Store App
-**Repository:** [NeelBelsare/my-dark-store-app](https://github.com/NeelBelsare/my-dark-store-app)
+**Repository:** [NeelBelsare/my-dark-store-app](https://github.com/NeelBelsare/my-dark-store-app)  
+**Role:** Collaborator & Contributor
 
-Production quick-commerce platform for Aurangabad with mobile clients, dispatch engine, and real-time operations dashboard.
+A quick-commerce platform for Aurangabad with a mobile app, live dashboard, dispatch logic, and real-time analytics for dark store operations.
 
-**My Role:**
-- 🎨 Frontend UX/UI design and implementation
-- 🗺️ Dark store geospatial layouts using GeoJSON.io
-- 📱 Mobile app interface optimization
-- 🎯 User experience improvements across platforms
+- Real-time order dispatch and route tracking
+- Live dashboard for store and rider operations
+- React Native + Flutter mobile clients
+- Supabase-powered real-time sync
+- Streamlit-based command center
 
 ### 2. 📦 Inventory Flow Engine
-**Repository:** [inventory-flow-engine](https://github.com/gaikemansi03-sketch/inventory-flow-engine)
+**Repository:** [inventory-flow-engine](https://github.com/gaikemansi03-sketch/inventory-flow-engine)  
+**Role:** Full-stack developer
 
-Full-stack inventory analytics with real-time stock monitoring, risk detection, and actionable dashboards.
+A full-stack inventory analytics platform focused on stock health, risk detection, and workflow visibility.
+
+- Inventory KPI dashboard
+- Excel/CSV upload and ingestion
+- Risk scoring and stockout analysis
+- React frontend + Flask backend
+- Supabase-integrated data processing
 
 ---
 
@@ -67,9 +96,24 @@ Full-stack inventory analytics with real-time stock monitoring, risk detection, 
   <img src="https://streak-stats.demolab.com/?user=gaikemansi03-sketch&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gaikemansi03-sketch&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="180" />
+</p>
+
 ---
 
-## 🤝 Let's Connect
+## 🌱 Currently Working On
+
+- Improving full-stack development skills
+- Building more real-world, impact-driven projects
+- Strengthening data structures, system design, and backend fundamentals
+- Exploring modern app architecture and cloud tools
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to learning opportunities, collaborations, and meaningful technical conversations.
 
 - LinkedIn: [Mansi Gaike](https://linkedin.com/in/mansi-gaike-821260316)
 - GitHub: [@gaikemansi03-sketch](https://github.com/gaikemansi03-sketch)
