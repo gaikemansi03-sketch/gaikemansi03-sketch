@@ -64,25 +64,13 @@ I'm a full-stack developer passionate about building practical, scalable solutio
 **Repository:** [NeelBelsare/my-dark-store-app](https://github.com/NeelBelsare/my-dark-store-app)  
 **Role:** Collaborator & Contributor
 
-A quick-commerce ecosystem built for Aurangabad with a mobile app, API layer, live dashboard, and analytics engine for dark store operations.
-
-- Real-time order dispatch and route tracking
-- Live dashboard for store and rider operations
-- React Native + Flutter mobile clients
-- Supabase-powered data layer and real-time sync
-- Streamlit-based operational command center
+Quick-commerce platform for Aurangabad with mobile app, live dashboard, dispatch logic, and real-time analytics.
 
 ### 2. 📦 Inventory Flow Engine
 **Repository:** [inventory-flow-engine](https://github.com/gaikemansi03-sketch/inventory-flow-engine)  
 **Role:** Full-stack developer
 
-A full-stack inventory analytics platform focused on stock health, risk detection, and operational visibility for supply chain workflows.
-
-- Inventory KPI dashboard
-- Excel/CSV upload and ingestion
-- Risk scoring and stockout analysis
-- React frontend + Flask backend
-- Supabase-integrated data processing
+Inventory analytics tool for stock health, risk detection, and workflow visibility.
 
 ---
 
@@ -118,3 +106,7 @@ I’m open to learning opportunities, collaborations, and meaningful technical c
 - LinkedIn: [Mansi Gaike](https://linkedin.com/in/mansi-gaike-821260316)
 - GitHub: [@gaikemansi03-sketch](https://github.com/gaikemansi03-sketch)
 - Email: [mansigaike2006@gmail.com](mailto:mansigaike2006@gmail.com)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=gaikemansi03-sketch&icon=0&color=0)](https://visitcount.itsvg.in)
