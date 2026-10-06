@@ -135,7 +135,3 @@ I’m open to learning opportunities, collaborations, and meaningful technical c
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gaikemansi03-sketch&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <strong>⭐ Building practical products, one iteration at a time.</strong>
-</p>
