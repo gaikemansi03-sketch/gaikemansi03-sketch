@@ -108,10 +108,6 @@ I’m a developer who enjoys turning ideas into practical, scalable software. I 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gaikemansi03-sketch&theme=codeSTACKr&hide_border=false" alt="GitHub Streak" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gaikemansi03-sketch&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="180" />
 </p>
 
