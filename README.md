@@ -101,7 +101,7 @@ I am a full-stack engineer driven by the intersection of robust backend infrastr
     <td width="50%" valign="top">
       <div align="left">
         <h3>🛒 <a href="https://github.com/NeelBelsare/my-dark-store-app">Dark Store Quick-Commerce Ecosystem</a></h3>
-        <p><strong>Role:</strong> Collaborator & Contributor</p>
+        <p><strong>Role:</strong> Frontend & Geospatial Developer</p>
         <p>An enterprise-grade hyper-local fulfillment platform supporting order lifecycle dispatching, dark-store routing, rider mobile interfaces, and live supervisory controls.</p>
         <p>
           <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="RN" />
